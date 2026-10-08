@@ -1,5 +1,7 @@
 # Modding Kompass
 
+**[Webapp öffnen →](https://heinz-creator.github.io/modding-kompass/)**
+
 Eine deutsche Lern-Webapp zu den **AI Game Modding Guides** von [Trev und Mitwirkenden](https://github.com/trevaintdead/ai-game-modding-guides). Alle 18 Anleitungen, sieben Vorlagen und vier Begleittexte stehen in einer übersichtlichen Oberfläche bereit.
 
 ## Funktionen
